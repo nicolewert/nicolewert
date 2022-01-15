@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**nicolewert/nicolewert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Nicole Wert & I'm a Full Stack Software Engineer 💛
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolewert&theme=gruvbox&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolewert&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+### About Me 👩‍💻
+- 🔭 I’m currently working on full stack web development
+- 🌱 I’m currently learning Golang & Java
+- ⚡ Fun fact: I love collecting pikachu and learning new languages 💭 안녕하세요 hola こんにちは 💭
+
+<p float="left">
+  <img src="https://media.giphy.com/media/UqYPGtgwtQvgANy1wj/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/12oTlUqDjqhTUs/giphy.gif" width="200" />
+</p>
+
+### How to reach me 📫 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-wert-205981187/) 
+<br> nicolewert@yahoo.com
