@@ -9,7 +9,6 @@
 
 ### About Me 👩‍💻
 - 🔭 I’m currently working on full stack web development
-- 🌱 I’m currently learning Golang & Java
 - ⚡ Fun fact: I love collecting pikachu and learning new languages 💭 안녕하세요 hola こんにちは 💭
 
 <p float="left">
