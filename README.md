@@ -17,7 +17,7 @@
 ---
 
 <br/>
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=nicolewert)](https://github.com/stats-organization/github-stats-extended)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolewert&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-wert-205981187/)  
